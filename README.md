@@ -22,14 +22,18 @@
 - 踩坑记录:[链接](https://www.jianshu.com/nb/48454004)
 - 插件/脚本等择日上传Git
 ## 个人Demo
-- 类魂Boss战：[UE5/GAS]|[视频](https://www.bilibili.com/video/BV1g2umzfEGh/?vd_source=562bce033517de03c909fd9aac303cf1)|[项目待上传]
+- 类魂Boss战：[UE5/GAS]|[视频](https://www.bilibili.com/video/BV1g2umzfEGh/?vd_source=562bce033517de03c909fd9aac303cf1)|[项目资源过大，待整理后上传]
 - 顶视角守塔玩法Demo：[UE5/GAS]|[视频](https://www.bilibili.com/video/BV1jNTEz7EN1?vd_source=562bce033517de03c909fd9aac303cf1&spm_id_from=333.788.videopod.sections)|[工程链接](https://github.com/LastAshen/Unreal5_ARPG_Learning)
 - 基于MassEntity的城市人群、车流尝试：[视频](https://www.bilibili.com/video/BV1JWKfzYEKR?vd_source=562bce033517de03c909fd9aac303cf1&spm_id_from=333.788.videopod.sections)
+- 基于Mass相关技术的林场Npc活动Demo：[视频](https://www.bilibili.com/video/BV1HPs3z2EgS?vd_source=562bce033517de03c909fd9aac303cf1&spm_id_from=333.788.videopod.sections)|项目美术资源过大，未上传项目
+- 基于UE5物理的复刻塞尔达左纳乌建造玩法Demo：[视频](https://www.bilibili.com/video/BV1JTs3zyEhN/?vd_source=562bce033517de03c909fd9aac303cf1)|[工程连接](https://github.com/LastAshen/ZeldaPhysics)
 ## 关于游戏设计
 - Gameplay: [How to make gameplay?](https://www.processon.com/view/link/684088d9df4ceb7e28efb6ce?cid=68396e82258a1d5a326a6b57)
 
-## 优秀的项目示例
+## 优秀的项目示例/文章
 - 官方：Lyra / CitySample / GASP / ActionRPG / 各个模板
 - Mass:
     - 文章：[MassEntity入门](https://kisspread.github.io/notes/Basic/ECS/Mass.html#_2-tag%E7%9A%84%E4%BD%9C%E7%94%A8%E6%98%AF%E8%BF%87%E6%BB%A4) | [Mass框架](https://www.xianlongok.site/post/ea92a01c/) | [UE5的ECS:Mass框架](https://zhuanlan.zhihu.com/p/441773595) | [UE5源码阅读之CitySample](https://zhuanlan.zhihu.com/p/718427569) 
     - 项目：[MassAIExample](https://github.com/Ji-Rath/MassAIExample?tab=readme-ov-file) | [MassSample(update to 5.6)](https://github.com/Megafunk/MassSample)
+- 经典：[游戏设计模式](https://gpp.tkchu.me/acknowledgements.html)
+- 《现代C++语言核心特性解析》[别人笔记](https://www.cnblogs.com/GodZhuan/p/15808454.html)
