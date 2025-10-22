@@ -22,11 +22,13 @@
 - 踩坑记录:[链接](https://www.jianshu.com/nb/48454004)
 - 插件/脚本等择日上传Git
 ## 个人Demo
-- 类魂Boss战：[UE5/GAS]|[视频](https://www.bilibili.com/video/BV1g2umzfEGh/?vd_source=562bce033517de03c909fd9aac303cf1)|[项目资源过大，待整理后上传]
-- 顶视角守塔玩法Demo：[UE5/GAS]|[视频](https://www.bilibili.com/video/BV1jNTEz7EN1?vd_source=562bce033517de03c909fd9aac303cf1&spm_id_from=333.788.videopod.sections)|[工程链接](https://github.com/LastAshen/Unreal5_ARPG_Learning)
-- 基于MassEntity的城市人群、车流尝试：[视频](https://www.bilibili.com/video/BV1JWKfzYEKR?vd_source=562bce033517de03c909fd9aac303cf1&spm_id_from=333.788.videopod.sections)
-- 基于Mass相关技术的林场Npc活动Demo：[视频](https://www.bilibili.com/video/BV1HPs3z2EgS?vd_source=562bce033517de03c909fd9aac303cf1&spm_id_from=333.788.videopod.sections)|项目美术资源过大，未上传项目
-- 基于UE5物理的复刻塞尔达左纳乌建造玩法Demo：[视频](https://www.bilibili.com/video/BV1JTs3zyEhN/?vd_source=562bce033517de03c909fd9aac303cf1)|[工程连接](https://github.com/LastAshen/ZeldaPhysics)
+- 类魂Boss战：[UE5/GAS]|[视频](https://www.bilibili.com/video/BV1g2umzfEGh)|[项目资源过大，待整理后上传]
+- 基于Chaos物理的复刻塞尔达左纳乌建造玩法Demo：[视频](https://www.bilibili.com/video/BV1JTs3zyEhN/)|[工程连接](https://github.com/LastAshen/ZeldaPhysics)
+- 顶视角守塔玩法Demo：[UE5/GAS]|[视频](https://www.bilibili.com/video/BV1jNTEz7EN1)|[工程链接](https://github.com/LastAshen/Unreal5_ARPG_Learning)
+- 基于MassEntity的城市人群、车流尝试：[视频](https://www.bilibili.com/video/BV1JWKfzYEKR)
+- 基于Mass相关技术的林场Npc活动Demo：[视频](https://www.bilibili.com/video/BV1HPs3z2EgS)|[项目美术资源过大，未上传项目]
+- 最小Mass工程：MiniMass: [视频](https://www.bilibili.com/video/BV14o8FzuEN7)|[工程链接](https://github.com/LastAshen/MiniMass#)
+- GameFeature功能测试Demo: [视频](https://www.bilibili.com/video/BV1gkbvzkEQy)|[工程链接](https://github.com/LastAshen/GameFeatureTest)
 ## 关于游戏设计
 - Gameplay: [How to make gameplay?](https://www.processon.com/view/link/684088d9df4ceb7e28efb6ce?cid=68396e82258a1d5a326a6b57)
 
