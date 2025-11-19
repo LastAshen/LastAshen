@@ -1,9 +1,9 @@
 # **Hi there 👋 简简单单一些笔记整理**
 
-## C++基础与高级语法
-- [脑图链接](https://www.processon.com/view/link/68076004a71fd53a76a57a84?cid=64f5a26c8abe6e4c2ddb4784)
-## C#笔记(语法部分未整理在线资料)
-- [链接](https://www.jianshu.com/nb/48628916)
+## 编程语言
+- [C++知识脑图【基础/高级】](https://www.processon.com/view/link/68076004a71fd53a76a57a84?cid=64f5a26c8abe6e4c2ddb4784)
+- [C#经验总结【基础部分为手写笔记】](https://www.jianshu.com/nb/48628916)
+- [Lua知识脑图](https://www.processon.com/view/link/691d6ef886d748532cb790ec)
 ## UE5
 [脑图链接](https://www.processon.com/view/link/680756e5729765689e10949d?cid=64ff139a6b1da260c484cdfc)&nbsp;&nbsp;内容大纲:  
 - U++
