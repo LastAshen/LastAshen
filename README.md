@@ -2,19 +2,25 @@
 
 ## 编程语言
 - [C++知识脑图【基础/高级】](https://www.processon.com/view/link/68076004a71fd53a76a57a84?cid=64f5a26c8abe6e4c2ddb4784)
-- [C#经验总结【基础部分为手写笔记】](https://www.jianshu.com/nb/48628916)
+- [C#经验总结【基础部分为手写笔记未上传】](https://www.jianshu.com/nb/48628916)
 - [Lua知识脑图](https://www.processon.com/view/link/691d6ef886d748532cb790ec)
 ## UE5
 [脑图链接](https://www.processon.com/view/link/680756e5729765689e10949d?cid=64ff139a6b1da260c484cdfc)&nbsp;&nbsp;内容大纲:  
-- U++
-- 蓝图
-- 引擎基础  
-    - 引擎启动流程/反射系统/物理系统/输入系统/动画/网络/AI(行为树、感知系统、EQS等)等
+- [大世界框架WorldPartition笔记](https://www.processon.com/v/6aa80488648f50640389abab)
+- [GAS框架学习笔记](https://www.processon.com/view/link/687e1cb4d8962758cbb387de?cid=67bad067ddabc31279673d85)
+- [动画管线研究学习]
+    - [动画蓝图Blend/Additive等节点功能作用梳理、IK算法分析、部分AnimInstance源码解读](https://www.processon.com/v/6aa802dd648f50640389a9a7)
+    - [ALSv4学习笔记](https://www.processon.com/v/6aa804c33866222bd99d303a)
+    - 项目动画网络同步框架及优化
+- [U++](https://www.processon.com/v/6aa801c1c5feac466f2dcbd3)
+- [蓝图](https://www.processon.com/v/6aa801c1c5feac466f2dcbd3)
+- [网络同步](https://www.processon.com/v/6aa8054e15f8ff2b47547ba9) 
+- [引擎基础](https://www.processon.com/v/6aa801c1c5feac466f2dcbd3)  
+    - 引擎启动流程 / 反射系统 / 物理系统 / 高级输入系统 / 动画 / 网络 / AI(行为树、感知系统、EQS等)等
 - Gameplay
 - Mass&StateTree&SmartObject
 - 性能分析与优化
 - 踩坑记录
-- [GAS](https://www.processon.com/view/link/687e1cb4d8962758cbb387de?cid=67bad067ddabc31279673d85)
 ## Unity
 - 笔记:[链接](https://www.jianshu.com/nb/48628910)
 - 编辑器扩展:[链接](https://www.jianshu.com/nb/48951064)
